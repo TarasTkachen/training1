@@ -1,0 +1,5 @@
+﻿  Проект Win32.cpp
+C:\Users\Radio\source\repos\Проект Win32\Проект Win32\Проект Win32.cpp(115,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Radio\source\repos\Проект Win32\Проект Win32\Проект Win32.cpp(117,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Radio\source\repos\Проект Win32\Проект Win32\Проект Win32.cpp(293): warning C4715: save: значение возвращается не при всех путях выполнения
+  Проект Win32.vcxproj -> C:\Users\Radio\source\repos\Проект Win32\Debug\Проект Win32.exe
